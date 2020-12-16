@@ -39,6 +39,8 @@ namespace Day2Question
                 }
                     
             }
+
+            Console.WriteLine("Somya ");
             Console.ReadKey();
         }
         
