@@ -1,0 +1,7 @@
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\bin\Debug\Day2Question.exe.config
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\bin\Debug\Day2Question.exe
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\bin\Debug\Day2Question.pdb
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\obj\Debug\Day2Question.csprojAssemblyReference.cache
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\obj\Debug\Day2Question.csproj.CoreCompileInputs.cache
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\obj\Debug\Day2Question.exe
+C:\Users\rsowm\Documents\LTI Training\Specialization\Day2Work\Day2QuestionSolution\Day2Question\obj\Debug\Day2Question.pdb
