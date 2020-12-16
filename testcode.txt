@@ -1,0 +1,8 @@
+min val
+5
+max val
+10
+
+output
+5
+7
